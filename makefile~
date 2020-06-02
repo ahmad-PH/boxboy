@@ -1,0 +1,2 @@
+all: 
+	g++ boxboy.cpp rsdl.cpp -l SDL2 -g

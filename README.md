@@ -5,8 +5,6 @@ This is an implementation of a minimal subset of [BoxBoy](https://en.wikipedia.o
 
 Since I love creating games, I put a good amount of work into this assignment, and I think the final result is cute, and worth checking out :).
 
-I will soon be adding a video of the game, so that you can quickly get a feel of what the game looks like.
-
 Please do note, that we were restricted to write all our code in a single file, and NOT to use inheritance or classes at all, since the corresponding material (OO design, and multifile coding) wasn't yet taught by the course instructor. Had we not been restricted, I would've have definitely used both these features. So, please do not judge my OO design skills based on the source code :D.
 
 ## Getting Started
